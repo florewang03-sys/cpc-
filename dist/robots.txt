@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /erp
+Disallow: /member
+Disallow: /leader
+Disallow: /pastoral
